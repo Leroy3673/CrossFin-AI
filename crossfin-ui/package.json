@@ -12,7 +12,8 @@
     "@clerk/nextjs": "^6.25.4",
     "next": "15.4.2",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "thirdweb": "^5.105.16"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
